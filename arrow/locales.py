@@ -2371,6 +2371,7 @@ class ArabicLocale(Locale):
         "months": {"double": "شهرين", "ten": "{0} أشهر", "higher": "{0} شهر"},
         "year": "سنة",
         "years": {"double": "سنتين", "ten": "{0} سنوات", "higher": "{0} سنة"},
+        
     }
 
     month_names = [
