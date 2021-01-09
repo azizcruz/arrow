@@ -2365,6 +2365,8 @@ class ArabicLocale(Locale):
         "hours": {"double": "ساعتين", "ten": "{0} ساعات", "higher": "{0} ساعة"},
         "day": "يوم",
         "days": {"double": "يومين", "ten": "{0} أيام", "higher": "{0} يوم"},
+        "week": "أسبوع",
+        "weeks": {"double": "أسبوعين", "ten": "{0} أسابيع", "higher": "{0} أسبوع"},
         "month": "شهر",
         "months": {"double": "شهرين", "ten": "{0} أشهر", "higher": "{0} شهر"},
         "year": "سنة",
